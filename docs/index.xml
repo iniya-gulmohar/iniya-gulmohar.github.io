@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaanal</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Kaanal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>user@example.com (Your Name)</managingEditor>
+    <webMaster>user@example.com (Your Name)</webMaster>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sketches</title>
+      <link>http://localhost:1313/sketches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>http://localhost:1313/sketches/</guid>
+        <media:content url="http://localhost:1313/sketches/3_hu_9c3639e26b78d0a4.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/sketches/3_hu_9c3639e26b78d0a4.JPG&quot; /&gt;
+          &lt;p&gt;My Sketches&lt;/p&gt;
+        </description></item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/writings/sixty_seconds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>http://localhost:1313/writings/sixty_seconds/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Gods of the Gaps</title>
+      <link>http://localhost:1313/photography/gods_of_the_gaps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>http://localhost:1313/photography/gods_of_the_gaps/</guid>
+        <media:content url="http://localhost:1313/photography/gods_of_the_gaps/feature_hu_20098edca99fdb36.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/photography/gods_of_the_gaps/feature_hu_20098edca99fdb36.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Mazhai</title>
+      <link>http://localhost:1313/photography/mazhai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>http://localhost:1313/photography/mazhai/</guid>
+        <media:content url="http://localhost:1313/photography/mazhai/feature_hu_3bffcf89fbd7dd05.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/photography/mazhai/feature_hu_3bffcf89fbd7dd05.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Mylapore</title>
+      <link>http://localhost:1313/photography/mylapore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>http://localhost:1313/photography/mylapore/</guid>
+        <media:content url="http://localhost:1313/photography/mylapore/feature_hu_91f9896a8e26cf51.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/photography/mylapore/feature_hu_91f9896a8e26cf51.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Other</title>
+      <link>http://localhost:1313/photography/other/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>http://localhost:1313/photography/other/</guid>
+        <media:content url="http://localhost:1313/photography/other/feature_hu_6b138cadc94beb55.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/photography/other/feature_hu_6b138cadc94beb55.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
