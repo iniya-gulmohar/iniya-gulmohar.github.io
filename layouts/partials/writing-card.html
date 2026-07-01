@@ -1,0 +1,17 @@
+{{ $cover := "" }}
+{{ with (.Resources.ByType "image").GetMatch "*cover*" }}
+  {{ $cover = .Filter (slice images.AutoOrient (images.Process "fit 600x600")) }}
+{{ end }}
+<a class="card" href="{{ .RelPermalink }}" title="{{ .Title }}">
+  <figure style="background-color: {{ with $cover }}{{ index .Colors 0 }}{{ else }}var(--bg){{ end }}">
+    {{ with $cover }}
+      <img class="lazyload" width="{{ .Width }}" height="{{ .Height }}" data-src="{{ .RelPermalink }}" alt="{{ $.Title }}" />
+    {{ else }}
+      <span style="font-size: 3rem; display: flex; align-items: center; justify-content: center; height: 100%;">📄</span>
+    {{ end }}
+  </figure>
+  <div>
+    <h2>{{ .Title }}</h2>
+    <p>{{ .Description }}</p>
+  </div>
+</a>

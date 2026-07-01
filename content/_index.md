@@ -1,6 +1,7 @@
 ---
 title: 'Kaanal'
 date: '2026-06-30T20:24:35+05:30'
+description: "Mirage"
 menus:
   main:
     name: Home

@@ -1,0 +1,16 @@
+{{ define "main" }}
+  {{ partial "title.html" . }}
+  {{ if eq .Section "writings" }}
+    <section class="galleries">
+      {{ range .Pages }}
+        {{ partial "writing-card.html" . }}
+      {{ end }}
+    </section>
+  {{ else }}
+    <section class="galleries">
+      {{ range where .Pages "Params.private" "ne" true }}
+        {{ partial "album-card.html" . }}
+      {{ end }}
+    </section>
+  {{ end }}
+{{ end }}
