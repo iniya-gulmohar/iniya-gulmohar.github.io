@@ -14,3 +14,52 @@ html {
   height: 100%;
   width: auto;
 }
+
+header > nav { 
+  height: 60px; 
+  display: flex; 
+  justify-content: flex-end;
+  align-items: center;
+} 
+
+.links-container { 
+  height: 100%;
+  width: 100%;
+  flex-direction: column;
+  align-items: flex-start;
+  position: fixed;
+  top: 0;
+  right: -250px;
+  z-index: 10;
+  width: 250px;
+  background-color: black;
+  box-shadow: -5px 0 5px rgba(0,0,0,0.25);
+  transition: 0.6s ease-out;
+} 
+
+header > nav a { 
+  box-sizing: border-box;
+  height: auto;
+  width: 100%;
+  padding: 20px 30px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} 
+
+nav a:hover { 
+  color: var(--text-2-light);
+} 
+
+#sidebar-active { 
+  display: none;
+} 
+
+.open-sidebar-button, .close-sidebar-button { 
+  padding: 20px;
+  display: block;
+} 
+
+#sidebar-active:checked ~ .links-container { 
+  right: 0;
+}
