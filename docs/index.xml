@@ -1,112 +1,112 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kaanal</title>
-    <link>https://kaanal.space/</link>
-    <description>Recent content on Kaanal</description>
+    <title>கானல் on Kaanal</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in கானல் on Kaanal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>user@example.com (Your Name)</managingEditor>
     <webMaster>user@example.com (Your Name)</webMaster>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="https://kaanal.space/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sketches</title>
-      <link>https://kaanal.space/sketches/</link>
+      <link>http://localhost:1313/sketches/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
-      <guid>https://kaanal.space/sketches/</guid>
-        <media:content url="https://kaanal.space/sketches/2_hu_e86ed7af54fe539e.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/sketches/</guid>
+        <media:content url="http://localhost:1313/sketches/2_hu_e86ed7af54fe539e.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://kaanal.space/sketches/2_hu_e86ed7af54fe539e.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/sketches/2_hu_e86ed7af54fe539e.jpg&quot; /&gt;
           &lt;p&gt;My Sketches&lt;/p&gt;
         </description></item>
     <item>
       <title>3D Works</title>
-      <link>https://kaanal.space/3d_works/</link>
+      <link>http://localhost:1313/3d_works/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
-      <guid>https://kaanal.space/3d_works/</guid>
-        <media:content url="https://kaanal.space/3d_works/feature_hu_16e01ff7b899f96c.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/3d_works/</guid>
+        <media:content url="http://localhost:1313/3d_works/feature_hu_16e01ff7b899f96c.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://kaanal.space/3d_works/feature_hu_16e01ff7b899f96c.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/3d_works/feature_hu_16e01ff7b899f96c.jpg&quot; /&gt;
           &lt;p&gt;3D Works&lt;/p&gt;
         </description></item>
     <item>
       <title>Arangetram</title>
-      <link>https://kaanal.space/dance/arangetram/</link>
+      <link>http://localhost:1313/dance/arangetram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
-      <guid>https://kaanal.space/dance/arangetram/</guid>
-        <media:content url="https://kaanal.space/dance/arangetram/cover_hu_69e0083190cef11b.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/dance/arangetram/</guid>
+        <media:content url="http://localhost:1313/dance/arangetram/cover_hu_69e0083190cef11b.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://kaanal.space/dance/arangetram/cover_hu_69e0083190cef11b.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/dance/arangetram/cover_hu_69e0083190cef11b.jpg&quot; /&gt;
           &lt;p&gt;Bharatanatyam Performance&lt;/p&gt;
         </description></item>
     <item>
       <title>Camel</title>
-      <link>https://kaanal.space/mixed_media/camel/</link>
+      <link>http://localhost:1313/mixed_media/camel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
-      <guid>https://kaanal.space/mixed_media/camel/</guid>
-        <media:content url="https://kaanal.space/mixed_media/camel/camel-01_hu_e58472b1ae3fba6.png" type="image/jpeg"/>
+      <guid>http://localhost:1313/mixed_media/camel/</guid>
+        <media:content url="http://localhost:1313/mixed_media/camel/camel-01_hu_e58472b1ae3fba6.png" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://kaanal.space/mixed_media/camel/camel-01_hu_e58472b1ae3fba6.png&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/mixed_media/camel/camel-01_hu_e58472b1ae3fba6.png&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Gods of the Gaps</title>
-      <link>https://kaanal.space/photography/gods_of_the_gaps/</link>
+      <link>http://localhost:1313/photography/gods_of_the_gaps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
-      <guid>https://kaanal.space/photography/gods_of_the_gaps/</guid>
-        <media:content url="https://kaanal.space/photography/gods_of_the_gaps/feature_hu_20098edca99fdb36.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/photography/gods_of_the_gaps/</guid>
+        <media:content url="http://localhost:1313/photography/gods_of_the_gaps/feature_hu_20098edca99fdb36.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://kaanal.space/photography/gods_of_the_gaps/feature_hu_20098edca99fdb36.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/photography/gods_of_the_gaps/feature_hu_20098edca99fdb36.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Mazhai</title>
-      <link>https://kaanal.space/photography/mazhai/</link>
+      <link>http://localhost:1313/photography/mazhai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
-      <guid>https://kaanal.space/photography/mazhai/</guid>
-        <media:content url="https://kaanal.space/photography/mazhai/feature_hu_3bffcf89fbd7dd05.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/photography/mazhai/</guid>
+        <media:content url="http://localhost:1313/photography/mazhai/feature_hu_3bffcf89fbd7dd05.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://kaanal.space/photography/mazhai/feature_hu_3bffcf89fbd7dd05.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/photography/mazhai/feature_hu_3bffcf89fbd7dd05.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Mylapore</title>
-      <link>https://kaanal.space/photography/mylapore/</link>
+      <link>http://localhost:1313/photography/mylapore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
-      <guid>https://kaanal.space/photography/mylapore/</guid>
-        <media:content url="https://kaanal.space/photography/mylapore/feature_hu_91f9896a8e26cf51.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/photography/mylapore/</guid>
+        <media:content url="http://localhost:1313/photography/mylapore/feature_hu_91f9896a8e26cf51.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://kaanal.space/photography/mylapore/feature_hu_91f9896a8e26cf51.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/photography/mylapore/feature_hu_91f9896a8e26cf51.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Other</title>
-      <link>https://kaanal.space/photography/other/</link>
+      <link>http://localhost:1313/photography/other/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
-      <guid>https://kaanal.space/photography/other/</guid>
-        <media:content url="https://kaanal.space/photography/other/feature_hu_6b138cadc94beb55.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/photography/other/</guid>
+        <media:content url="http://localhost:1313/photography/other/feature_hu_6b138cadc94beb55.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://kaanal.space/photography/other/feature_hu_6b138cadc94beb55.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/photography/other/feature_hu_6b138cadc94beb55.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Sixty Seconds</title>
-      <link>https://kaanal.space/writings/sixty_seconds/</link>
+      <link>http://localhost:1313/writings/sixty_seconds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
-      <guid>https://kaanal.space/writings/sixty_seconds/</guid>
-        <media:content url="https://kaanal.space/writings/sixty_seconds/cover_hu_3b46d7d5b421469f.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/writings/sixty_seconds/</guid>
+        <media:content url="http://localhost:1313/writings/sixty_seconds/cover_hu_3b46d7d5b421469f.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://kaanal.space/writings/sixty_seconds/cover_hu_3b46d7d5b421469f.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/writings/sixty_seconds/cover_hu_3b46d7d5b421469f.jpg&quot; /&gt;
           &lt;p&gt;A Reflection&lt;/p&gt;
         </description></item>
     <item>
       <title>Tribhanga</title>
-      <link>https://kaanal.space/mixed_media/tribhanga/</link>
+      <link>http://localhost:1313/mixed_media/tribhanga/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
-      <guid>https://kaanal.space/mixed_media/tribhanga/</guid>
-        <media:content url="https://kaanal.space/mixed_media/tribhanga/3_hu_585aef8883ffd535.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/mixed_media/tribhanga/</guid>
+        <media:content url="http://localhost:1313/mixed_media/tribhanga/3_hu_585aef8883ffd535.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://kaanal.space/mixed_media/tribhanga/3_hu_585aef8883ffd535.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/mixed_media/tribhanga/3_hu_585aef8883ffd535.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>

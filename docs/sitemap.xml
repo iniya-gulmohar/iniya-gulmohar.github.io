@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kaanal.space/sketches/</loc>
+    <loc>http://localhost:1313/sketches/</loc>
   </url><url>
-    <loc>https://kaanal.space/photography/</loc>
+    <loc>http://localhost:1313/photography/</loc>
   </url><url>
-    <loc>https://kaanal.space/3d_works/</loc>
+    <loc>http://localhost:1313/3d_works/</loc>
   </url><url>
-    <loc>https://kaanal.space/mixed_media/</loc>
+    <loc>http://localhost:1313/mixed_media/</loc>
   </url><url>
-    <loc>https://kaanal.space/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-06-30T20:24:35+05:30</lastmod>
   </url><url>
-    <loc>https://kaanal.space/dance/arangetram/</loc>
+    <loc>http://localhost:1313/dance/arangetram/</loc>
   </url><url>
-    <loc>https://kaanal.space/mixed_media/camel/</loc>
+    <loc>http://localhost:1313/mixed_media/camel/</loc>
   </url><url>
-    <loc>https://kaanal.space/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://kaanal.space/dance/</loc>
+    <loc>http://localhost:1313/dance/</loc>
   </url><url>
-    <loc>https://kaanal.space/photography/gods_of_the_gaps/</loc>
+    <loc>http://localhost:1313/photography/gods_of_the_gaps/</loc>
   </url><url>
-    <loc>https://kaanal.space/photography/mazhai/</loc>
+    <loc>http://localhost:1313/photography/mazhai/</loc>
   </url><url>
-    <loc>https://kaanal.space/photography/mylapore/</loc>
+    <loc>http://localhost:1313/photography/mylapore/</loc>
   </url><url>
-    <loc>https://kaanal.space/photography/other/</loc>
+    <loc>http://localhost:1313/photography/other/</loc>
   </url><url>
-    <loc>https://kaanal.space/categories/photography/</loc>
+    <loc>http://localhost:1313/categories/photography/</loc>
   </url><url>
-    <loc>https://kaanal.space/writings/sixty_seconds/</loc>
+    <loc>http://localhost:1313/writings/sixty_seconds/</loc>
   </url><url>
-    <loc>https://kaanal.space/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://kaanal.space/mixed_media/tribhanga/</loc>
+    <loc>http://localhost:1313/mixed_media/tribhanga/</loc>
   </url><url>
-    <loc>https://kaanal.space/writings/</loc>
+    <loc>http://localhost:1313/writings/</loc>
   </url>
 </urlset>
