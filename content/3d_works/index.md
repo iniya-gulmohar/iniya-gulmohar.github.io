@@ -6,4 +6,9 @@ weight: 3
 menus: "main"
 params:
   theme: dark
+resources:
+  - src: feature.jpg
+    params:
+      cover: true
+---
 ---

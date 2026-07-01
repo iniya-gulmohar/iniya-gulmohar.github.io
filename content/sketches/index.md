@@ -7,7 +7,7 @@ menus: "main"
 params:
   theme: dark
 resources:
-  - src: 3.jpg
+  - src: 2.jpg
     params:
       cover: true
 ---

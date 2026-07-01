@@ -14,9 +14,9 @@
       <link>https://kaanal.space/sketches/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
       <guid>https://kaanal.space/sketches/</guid>
-        <media:content url="https://kaanal.space/sketches/3_hu_95057d88e0e02ec2.jpg" type="image/jpeg"/>
+        <media:content url="https://kaanal.space/sketches/2_hu_e86ed7af54fe539e.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://kaanal.space/sketches/3_hu_95057d88e0e02ec2.jpg&quot; /&gt;
+          &lt;img src=&quot;https://kaanal.space/sketches/2_hu_e86ed7af54fe539e.jpg&quot; /&gt;
           &lt;p&gt;My Sketches&lt;/p&gt;
         </description></item>
     <item>
@@ -24,10 +24,20 @@
       <link>https://kaanal.space/3d_works/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
       <guid>https://kaanal.space/3d_works/</guid>
-        <media:content url="https://kaanal.space/3d_works/20251015_072127-COLLAGE_hu_ecfc78554985dcaf.jpg" type="image/jpeg"/>
+        <media:content url="https://kaanal.space/3d_works/feature_hu_16e01ff7b899f96c.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://kaanal.space/3d_works/20251015_072127-COLLAGE_hu_ecfc78554985dcaf.jpg&quot; /&gt;
+          &lt;img src=&quot;https://kaanal.space/3d_works/feature_hu_16e01ff7b899f96c.jpg&quot; /&gt;
           &lt;p&gt;3D Works&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Arangetram</title>
+      <link>https://kaanal.space/dance/arangetram/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>https://kaanal.space/dance/arangetram/</guid>
+        <media:content url="https://kaanal.space/dance/arangetram/cover_hu_69e0083190cef11b.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://kaanal.space/dance/arangetram/cover_hu_69e0083190cef11b.jpg&quot; /&gt;
+          &lt;p&gt;Bharatanatyam Performance&lt;/p&gt;
         </description></item>
     <item>
       <title>Camel</title>
@@ -84,9 +94,9 @@
       <link>https://kaanal.space/writings/sixty_seconds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
       <guid>https://kaanal.space/writings/sixty_seconds/</guid>
-        <media:content url="https://kaanal.space/writings/sixty_seconds/cover_hu_fc1462b6c9d6051b.jpg" type="image/jpeg"/>
+        <media:content url="https://kaanal.space/writings/sixty_seconds/cover_hu_3b46d7d5b421469f.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://kaanal.space/writings/sixty_seconds/cover_hu_fc1462b6c9d6051b.jpg&quot; /&gt;
+          &lt;img src=&quot;https://kaanal.space/writings/sixty_seconds/cover_hu_3b46d7d5b421469f.jpg&quot; /&gt;
           &lt;p&gt;A Reflection&lt;/p&gt;
         </description></item>
     <item>

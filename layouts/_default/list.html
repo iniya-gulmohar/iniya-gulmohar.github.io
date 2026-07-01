@@ -6,6 +6,12 @@
         {{ partial "writing-card.html" . }}
       {{ end }}
     </section>
+  {{ else if eq .Section "dance" }} 
+    <section class="galleries">
+      {{ range .Pages }}
+        {{ partial "external-card.html" . }}
+      {{ end }}
+    </section>
   {{ else }}
     <section class="galleries">
       {{ range where .Pages "Params.private" "ne" true }}
