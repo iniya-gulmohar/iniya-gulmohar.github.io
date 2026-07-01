@@ -30,6 +30,16 @@
           &lt;p&gt;3D Works&lt;/p&gt;
         </description></item>
     <item>
+      <title>Camel</title>
+      <link>https://kaanal.space/mixed_media/camel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>https://kaanal.space/mixed_media/camel/</guid>
+        <media:content url="https://kaanal.space/mixed_media/camel/camel-01_hu_e58472b1ae3fba6.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://kaanal.space/mixed_media/camel/camel-01_hu_e58472b1ae3fba6.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
       <title>Gods of the Gaps</title>
       <link>https://kaanal.space/photography/gods_of_the_gaps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
@@ -78,6 +88,16 @@
         <description>
           &lt;img src=&quot;https://kaanal.space/writings/sixty_seconds/cover_hu_fc1462b6c9d6051b.jpg&quot; /&gt;
           &lt;p&gt;A Reflection&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Tribhanga</title>
+      <link>https://kaanal.space/mixed_media/tribhanga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>https://kaanal.space/mixed_media/tribhanga/</guid>
+        <media:content url="https://kaanal.space/mixed_media/tribhanga/3_hu_585aef8883ffd535.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://kaanal.space/mixed_media/tribhanga/3_hu_585aef8883ffd535.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>
 </rss>
