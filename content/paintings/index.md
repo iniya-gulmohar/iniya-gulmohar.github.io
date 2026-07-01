@@ -2,7 +2,7 @@
 title: Paintings
 description: My Paintings
 weight: 1
-categories: ["Paintings"]
+# categories: ["Paintings"]
 menus: "main"
 params:
   private: true

@@ -2,7 +2,7 @@
 title: Sketches
 description: My Sketches
 weight: 1
-categories: ["Sketches"]
+# categories: ["Sketches"]
 menus: "main"
 params:
   theme: dark

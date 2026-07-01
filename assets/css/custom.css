@@ -3,3 +3,14 @@
 html { 
   font-family: 'Alegreya', serif;
 } 
+
+.main-logo {
+  height: 4rem; 
+  display: flex;
+  align-items: center;
+}
+
+.main-logo img {
+  height: 100%;
+  width: auto;
+}
