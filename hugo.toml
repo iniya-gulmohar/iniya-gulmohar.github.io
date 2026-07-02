@@ -45,7 +45,7 @@ publishDir = "docs"
 
 [menu]
   [[menu.footer]]
-    name = "Kaanal 2026"
+    name = "Prints of my artwork are available for sale. Kindly reach out to my Instagram or E-mail for details."
     weight = 1
 
 [services]

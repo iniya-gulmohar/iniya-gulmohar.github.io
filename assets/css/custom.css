@@ -82,3 +82,9 @@ nav a:hover {
     border-color: var(--surface-2-light);
   }
 }
+
+@media (max-width: 768px) {
+    footer {
+      text-align: center;
+    }
+}
