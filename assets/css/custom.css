@@ -2,6 +2,13 @@
 
 html { 
   font-family: 'Alegreya', serif;
+  overflow-x: hidden;
+} 
+
+.home-page { 
+  background-image: url("/images/pattern.png");
+  background-size: cover;
+  backdrop-filter: blur(13px);
 } 
 
 .main-logo {
