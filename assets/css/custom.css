@@ -83,8 +83,89 @@ nav a:hover {
   }
 }
 
+.about-text {
+  max-width: 650px;
+  margin: 3rem auto;
+  cursor: pointer;
+  text-align: center;
+}
+
+.about-text h2 {
+  font-weight: 600;
+  font-size: 1.5rem;
+  margin-bottom: 0.75rem;
+  color: var(--text-1);
+  letter-spacing: 0.1em;
+}
+
+.about-text p { 
+  margin-bottom: 0.75rem;
+} 
+
+.about-text::after {
+  content: '';
+  display: block;
+  width: 3rem;
+  height: 2px;
+  margin: 0 auto;
+  background: var(--border);
+  border-radius: 2px;
+  opacity: 0.5;
+  animation: breathe-color 2s ease-in-out infinite;
+  transition: width 0.6s ease, background 0.3s ease;
+}
+
+@keyframes breathe-color {
+  0%, 100% {
+    background: var(--border);
+    opacity: 0.4;
+  }
+  50% {
+    background: var(--text-2);
+    opacity: 1;
+  }
+}
+
+.about-text:hover::after {
+  animation: none;
+  width: 100%;
+  background: var(--border);
+  opacity: 1;
+}
+
+.about-text-wrapper {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 0.8s ease;
+}
+
+.about-text:hover .about-text-wrapper {
+  grid-template-rows: 1fr;
+}
+
+.about-text-inner {
+  overflow: hidden;
+  color: var(--text-2);
+  font-size: 1.0625rem;
+  line-height: 1.6;
+  padding-top: 0;
+  transition: padding 0.8s ease;
+}
+
+.about-text:hover .about-text-inner {
+  padding-top: 1.5rem;
+}
+
 @media (max-width: 768px) {
     footer {
       text-align: center;
     }
+
+    .about-text:hover::after { 
+      width: 75%;
+    } 
+
+    .about-text p { 
+      margin: 0 1rem 1rem 1rem;
+    } 
 }

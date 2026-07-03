@@ -7,6 +7,3 @@ menus:
     name: Home
     weight: -1
 ---
-
-This test does it work
-

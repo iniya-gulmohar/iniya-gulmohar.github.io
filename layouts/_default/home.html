@@ -2,6 +2,14 @@
   {{ partial "title.html" . }}
   {{ partial "categories.html" }}
   {{ partial "featured.html" . }}
+<div class="about-text">
+  <h2>About</h2>
+  <div class="about-text-wrapper">
+    <div class="about-text-inner">
+      <p>I am Maithreyi, a visual artist, photographer, freelance illustrator, art teacher, Bharatanatyam dancer and an amateur writer-poet. This is a space where I post my work.</p>
+    </div>
+  </div>
+</div>
   <section class="galleries">
     {{ range where .Pages "Params.private" "ne" true }}
       {{ partial "album-card.html" . }}
