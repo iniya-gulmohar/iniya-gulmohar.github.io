@@ -2,7 +2,7 @@
 title: Mixed Media
 description: My media
 menus: "main"
-weight: 5
+weight: 4
 params:
   theme: dark
 resources:

@@ -13,7 +13,7 @@
   <section class="galleries">
     {{ range where .Pages "Params.private" "ne" true }}
       {{ partial "album-card.html" . }}
-    {{ end }}
+    {{ end}}
   </section>
 </div>
 {{ end }}
