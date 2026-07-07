@@ -9,7 +9,7 @@ params:
   featured: true
   theme: dark
 resources:
-  - src: 3.jpg
+  - src: 03.jpg
     params:
       cover: true
 ---
