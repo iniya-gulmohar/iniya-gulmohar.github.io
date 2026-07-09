@@ -1,7 +1,6 @@
 ---
 title: Sixty Seconds
 layout: prose
-description: A Reflection
 resources:
   - src: cover.jpg
     params:
