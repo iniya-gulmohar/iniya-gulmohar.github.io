@@ -1,6 +1,5 @@
 ---
 title: Sketches
-description: My Sketches
 weight: 1
 # categories: ["Sketches"]
 menus: "main"

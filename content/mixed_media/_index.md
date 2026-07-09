@@ -1,6 +1,5 @@
 ---
 title: Mixed Media
-description: My media
 menus: "main"
 weight: 4
 params:

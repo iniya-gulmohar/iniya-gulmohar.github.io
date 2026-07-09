@@ -1,6 +1,5 @@
 ---
 title: Writings
-description: My writings
 weight: 5
 menus:
   main:

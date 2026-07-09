@@ -1,6 +1,5 @@
 ---
 title: Paintings
-description: My Paintings
 weight: 1
 # categories: ["Paintings"]
 menus: "main"
