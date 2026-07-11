@@ -7,7 +7,7 @@ publishDir = "docs"
 
 [params]
   title = "Kaanal"
-  description = "Need to be set"
+  description = "kaanal: (n.) mirage"
   defaultTheme = "dark"
   [params.author]
     email = "maithreyi.ram@gmail.com"
