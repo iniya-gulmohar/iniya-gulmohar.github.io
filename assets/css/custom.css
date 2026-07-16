@@ -151,7 +151,20 @@ nav a:hover {
   animation: none;
 }
 
+.about-text.expanded h2::after {
+  opacity: 0;
+  transform: scale(0);
+  animation: none;
+}
+
 .about-text:hover::after {
+  animation: none;
+  width: 100%;
+  opacity: 1;
+  background: var(--border);
+}
+
+.about-text.expanded::after {
   animation: none;
   width: 100%;
   opacity: 1;
@@ -168,6 +181,10 @@ nav a:hover {
   grid-template-rows: 1fr;
 }
 
+.about-text.expanded .about-text-wrapper {
+  grid-template-rows: 1fr;
+}
+
 .about-text-inner {
   overflow: hidden;
   color: var(--text-2);
@@ -178,13 +195,22 @@ nav a:hover {
 }
 
 .about-text:hover .about-text-inner {
-  padding-top: 0;    /* was 1.5rem */
+  padding-top: 0; 
+  margin-top: 0;
+}
+
+.about-text.expanded .about-text-inner {
+  padding-top: 0;
   margin-top: 0;
 }
 
 @media (max-width: 768px) {
     footer {
       text-align: center;
+    }
+
+    .about-text.expanded::after {
+      width: 75%;
     }
 
     .about-text:hover::after { 
