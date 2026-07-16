@@ -1,6 +1,6 @@
 <footer id="footer">
   {{ partialCached "social-icons.html" . }}
-  <section>
+  <section id="footer-copyright">
     {{ .Site.Copyright }}
     {{ range .Site.Menus.footer }}
         {{ .Name }}
