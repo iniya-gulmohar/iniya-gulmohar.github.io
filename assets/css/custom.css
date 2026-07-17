@@ -16,7 +16,7 @@ html {
   inset: 0;
   background-image: url("/images/pattern.png");
   background-size: cover;
-  filter: blur(13px);
+  filter: blur(11px);
   z-index: -1;
   pointer-events: none;
 }
@@ -205,6 +205,10 @@ nav a:hover {
 }
 
 @media (max-width: 768px) {
+    .home-page::before {
+      filter: blur(8px);
+    }
+
     footer {
       text-align: center;
     }
